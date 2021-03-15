@@ -4,7 +4,7 @@
 
 ## Description
 
-I built this app so that the user would be able to plan and schedule their day and know what the current, past and present hours are. They can also enter plans in each of the text areas and it will be saved to their local storage in perpetuity. By doing this project I learned how to use moments.js and it helped me further understand that taking little bite sized steps is the best way to achieve the overall goal of the project.
+I built this app so that the user would be able to plan and schedule their day and know what the current, past and present hours are. They can also enter plans in each of the text areas and it will be saved to their local storage in perpetuity. By doing this project I learned how to use the Moment.js library, and it helped me further understand that taking little bite sized steps is the best way to achieve the overall goal of the project.
 
 You can visit the app [HERE](https://petermodavis.github.io/work-day-scheduler/)
 
