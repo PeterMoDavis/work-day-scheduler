@@ -8,6 +8,10 @@ I built this app so that the user would be able to plan and schedule their day a
 
 You can visit the app [HERE](https://petermodavis.github.io/work-day-scheduler/)
 
+## Technology
+
+JS, HTML5, CSS, MomentJS, Local Storage
+
 ## Usage
 
 Just go to the link provided above, write a message in the text area and click on the associated save button. Then when you refresh, it will still be there.
@@ -16,6 +20,10 @@ Just go to the link provided above, write a message in the text area and click o
 ## Credits
 
 [Moment.JS](https://momentjs.com/)
+
+## Contact
+
+pmodavis.webdev@gmail.com
 
 ## License
 
